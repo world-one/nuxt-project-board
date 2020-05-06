@@ -1,0 +1,20 @@
+@charset 'utf-8';
+.header{
+  .navbar-brand{
+    width: 100%;
+  }
+}
+.top__title__area{
+  margin-bottom: 2rem;
+}
+.container__height{
+  min-height: calc( 100vh - 380px );
+}
+.footer{
+  margin-top: 3rem;
+  padding: 1.5rem 0 2rem;
+}
+
+.reverse{
+  transform: rotate(180deg);
+}

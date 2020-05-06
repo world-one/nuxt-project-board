@@ -1,0 +1,15 @@
+@charset 'utf-8';
+.main__table{
+  margin-bottom: 3rem;
+  border-bottom: 1px solid #dbdbdb;
+  &.table {
+    th,td{text-align: center;}
+  }
+  th{
+    background-color: #f9f9f9;
+  }
+}
+
+.pagination{
+  padding: 1rem 0;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-project-board",
+  "version": "1.0.0",
+  "description": "My rad Nuxt.js project",
+  "author": "world-one",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/dotenv": "^1.4.0",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.6.0",
+    "bulma": "^0.8.2",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2"
+  }
+}
